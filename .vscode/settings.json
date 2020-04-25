@@ -1,0 +1,5 @@
+{
+	"python.pythonPath": ".djenv\\Scripts\\python.exe",
+	"git.ignoreLimitWarning": true,
+	"files.eol": "\r\n"
+}
